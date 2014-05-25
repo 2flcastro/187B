@@ -1,0 +1,1570 @@
+﻿$axure.loadCurrentPage({
+  "url":"video.html",
+  "generationDate":new Date(1400738118865.51),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"d216112ce322464f9911c2fa39a99134",
+    "type":"Axure:Page",
+    "name":"Video",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"b317ebb2035b4278ae50e33892232dc3",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFF3F3F3},
+            "size":{
+              "width":1229,
+              "height":1230},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF999999}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"95d716545dd949ce8757f3bc5dfbc0a7",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFF3F3F3},
+                "size":{
+                  "width":1229,
+                  "height":1230},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF999999}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/video/u0.png"}},
+{
+          "id":"bef69ea3faf4468880cc2f4b7cfa6251",
+          "label":"",
+          "type":"referenceDiagramObject",
+          "styleType":"referenceDiagramObject",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":-1,
+              "y":-4}},
+          "adaptiveStyles":{
+},
+          "masterId":"d9b8d7eee75b4a9ba1255acb2f850abd"},
+{
+          "id":"06740d5024ae481eb4776a59312d2297",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fill":{
+              "fillType":"solid",
+              "color":0xFF45494E},
+            "location":{
+              "x":0,
+              "y":126},
+            "size":{
+              "width":1229,
+              "height":34},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9383c381526c4dfab4dd4eed74d4178c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF45494E},
+                "location":{
+                  "x":0,
+                  "y":126},
+                "size":{
+                  "width":1229,
+                  "height":34},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/gallery/u27.png"}},
+{
+          "id":"c928b36265d4466ea6d2a565f4ea61d6",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":340,
+              "y":170},
+            "size":{
+              "width":550,
+              "height":103}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"0e9e49f9e4d343889382e9252f412952",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":340,
+                  "y":170},
+                "size":{
+                  "width":550,
+                  "height":103}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"cd4f5350882e429883c75c24362afbde",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fill":{
+              "fillType":"solid",
+              "color":0xFF999999},
+            "location":{
+              "x":134.5,
+              "y":340},
+            "size":{
+              "width":960,
+              "height":550}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"fabffd23719444538c86a6707ec88d66",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF999999},
+                "location":{
+                  "x":134.5,
+                  "y":340},
+                "size":{
+                  "width":960,
+                  "height":550}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/video/u29.png"}},
+{
+          "id":"dcc9b754ecbb4236ac300e59781a73bb",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":461,
+              "y":529.5},
+            "size":{
+              "width":306,
+              "height":171}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"39e1216a84fa4d9d81c8fccfb9a1da80",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":461,
+                  "y":529.5},
+                "size":{
+                  "width":306,
+                  "height":171}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/video/u31.png"}},
+{
+          "id":"04c61d2ab891479bb43e15534c01e136",
+          "label":"",
+          "type":"referenceDiagramObject",
+          "styleType":"referenceDiagramObject",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":-11,
+              "y":1210}},
+          "adaptiveStyles":{
+},
+          "masterId":"01fcc325c530467984fe7b5b2ffa3547"},
+{
+          "id":"8f4e9f10764e4dd996a42fef3dc565fc",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fill":{
+              "fillType":"solid",
+              "color":0xFF999999},
+            "location":{
+              "x":160,
+              "y":960},
+            "size":{
+              "width":380,
+              "height":218}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"7d2ddf076fa0469fa89ec7f4057ce1b3",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF999999},
+                "location":{
+                  "x":160,
+                  "y":960},
+                "size":{
+                  "width":380,
+                  "height":218}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/video/u48.png"}},
+{
+          "id":"87e96be9f60f43fc846b8708b1930a24",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":290,
+              "y":1035},
+            "size":{
+              "width":121,
+              "height":68}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e69d5e7aa62e4320b7689911a432b1dc",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":290,
+                  "y":1035},
+                "size":{
+                  "width":121,
+                  "height":68}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/video/u31.png"}},
+{
+          "id":"b0e0b8dfc49a498ebc60a3be8705686b",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fill":{
+              "fillType":"solid",
+              "color":0xFF999999},
+            "location":{
+              "x":670,
+              "y":960},
+            "size":{
+              "width":380,
+              "height":218}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"686e8d943cf543bd908e4374ed58fc2a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF999999},
+                "location":{
+                  "x":670,
+                  "y":960},
+                "size":{
+                  "width":380,
+                  "height":218}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/video/u48.png"}},
+{
+          "id":"2da50d98cbc04953940784f80e1e7487",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":800,
+              "y":1035},
+            "size":{
+              "width":121,
+              "height":68}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a64c7f8abba1437facd5c0bea4bbb475",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":800,
+                  "y":1035},
+                "size":{
+                  "width":121,
+                  "height":68}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/video/u31.png"}},
+{
+          "id":"8106b00d33304800b52a37647b302423",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":465,
+              "y":250},
+            "size":{
+              "width":300,
+              "height":10},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF009966}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/music/u55_line.png"}}]}},
+  "masters":{
+    "d9b8d7eee75b4a9ba1255acb2f850abd":{
+      "packageId":"d9b8d7eee75b4a9ba1255acb2f850abd",
+      "type":"Axure:Master",
+      "name":"Secondary Navigation",
+      "notes":{
+},
+      "style":{
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "pageAlignment":"near",
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFFFF},
+        "image":null,
+        "imageHorizontalAlignment":"near",
+        "imageVerticalAlignment":"near",
+        "imageRepeat":"auto",
+        "favicon":null,
+        "sketchFactor":"0",
+        "colorStyle":"appliedColor",
+        "fontName":"Applied Font",
+        "borderWidth":"0"},
+      "adaptiveStyles":{
+},
+      "interactionMap":{
+},
+      "diagram":{
+        "objects":[{
+            "id":"f3b41e21a2364f50ac62521579a1461e",
+            "label":"",
+            "type":"imageBox",
+            "styleType":"imageBox",
+            "visible":true,
+            "style":{
+              "location":{
+                "x":163,
+                "y":16},
+              "size":{
+                "width":327,
+                "height":42}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"5479293b88c644559ce2fa7a48c994be",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "location":{
+                    "x":163,
+                    "y":16},
+                  "size":{
+                    "width":327,
+                    "height":42}},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"Open HOME in Current Window",
+                        "target":{
+                          "targetType":"page",
+                          "url":"home.html",
+                          "includeVariables":true},
+                        "linkType":"current"}]}]}},
+            "tabbable":true,
+            "images":{
+              "normal~":"images/home/u5.png"}},
+{
+            "id":"3e930f9f63fb4c45862143181f3d638b",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"h2",
+            "visible":true,
+            "style":{
+              "fontName":"'Lato-Light', 'Lato Light', 'Lato'",
+              "fontSize":"16px",
+              "fontWeight":"200",
+              "location":{
+                "x":702,
+                "y":27.5},
+              "size":{
+                "width":55,
+                "height":19}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"1734c82533e0443299755c5be1b66c5c",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'Lato-Light', 'Lato Light', 'Lato'",
+                  "fontSize":"16px",
+                  "fontWeight":"200",
+                  "location":{
+                    "x":702,
+                    "y":27.5},
+                  "size":{
+                    "width":55,
+                    "height":19}},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"Open ABOUT in Current Window",
+                        "target":{
+                          "targetType":"page",
+                          "url":"about.html",
+                          "includeVariables":true},
+                        "linkType":"current"}]}]}},
+            "tabbable":true,
+            "images":{
+              "normal~":"resources/images/transparent.gif"}},
+{
+            "id":"83ed053875d74f4f959804b4366639c2",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"h2",
+            "visible":true,
+            "style":{
+              "fontName":"'Lato-Light', 'Lato Light', 'Lato'",
+              "fontSize":"16px",
+              "fontWeight":"200",
+              "location":{
+                "x":812,
+                "y":27.5},
+              "size":{
+                "width":52,
+                "height":19}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"acf66e9ba5d3485aae8c326ec8a97aa7",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'Lato-Light', 'Lato Light', 'Lato'",
+                  "fontSize":"16px",
+                  "fontWeight":"200",
+                  "location":{
+                    "x":812,
+                    "y":27.5},
+                  "size":{
+                    "width":52,
+                    "height":19}},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onMouseOver":{
+                "description":"OnMouseOver",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"fadeWidget",
+                        "description":"Show DropDown treat as flyout",
+                        "objectsToFades":[{
+                            "objectPath":["8eedbf7a89d14d9c9d4816b6baff685b"],
+                            "fadeInfo":{
+                              "fadeType":"show",
+                              "options":{
+                                "showType":"flyout"}}}]}]}]}},
+            "images":{
+              "normal~":"resources/images/transparent.gif"}},
+{
+            "id":"e72e8b5d5c5e4fc4937087f6b4d5b276",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"h2",
+            "visible":true,
+            "style":{
+              "fontName":"'Lato-Light', 'Lato Light', 'Lato'",
+              "fontSize":"16px",
+              "fontWeight":"200",
+              "location":{
+                "x":918,
+                "y":27.5},
+              "size":{
+                "width":58,
+                "height":19}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"23a2eb521c1c48a5b1a474e62037755c",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'Lato-Light', 'Lato Light', 'Lato'",
+                  "fontSize":"16px",
+                  "fontWeight":"200",
+                  "location":{
+                    "x":918,
+                    "y":27.5},
+                  "size":{
+                    "width":58,
+                    "height":19}},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"Open EVENTS in Current Window",
+                        "target":{
+                          "targetType":"page",
+                          "url":"events.html",
+                          "includeVariables":true},
+                        "linkType":"current"}]}]}},
+            "tabbable":true,
+            "images":{
+              "normal~":"resources/images/transparent.gif"}},
+{
+            "id":"7185b9448c304f0ba6e35372995b9060",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"h2",
+            "visible":true,
+            "style":{
+              "fontName":"'Lato-Light', 'Lato Light', 'Lato'",
+              "fontSize":"16px",
+              "fontWeight":"200",
+              "location":{
+                "x":1030,
+                "y":27.5},
+              "size":{
+                "width":76,
+                "height":19}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"6f6082e0ca7c489da5ec4a99bc8037d1",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'Lato-Light', 'Lato Light', 'Lato'",
+                  "fontSize":"16px",
+                  "fontWeight":"200",
+                  "location":{
+                    "x":1030,
+                    "y":27.5},
+                  "size":{
+                    "width":76,
+                    "height":19}},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"Open CONTACT in Current Window",
+                        "target":{
+                          "targetType":"page",
+                          "url":"contact.html",
+                          "includeVariables":true},
+                        "linkType":"current"}]}]}},
+            "tabbable":true,
+            "images":{
+              "normal~":"resources/images/transparent.gif"}},
+{
+            "id":"8eedbf7a89d14d9c9d4816b6baff685b",
+            "label":"DropDown",
+            "type":"dynamicPanel",
+            "styleType":"dynamicPanel",
+            "visible":false,
+            "style":{
+              "location":{
+                "x":776,
+                "y":57},
+              "size":{
+                "width":124,
+                "height":136},
+              "visible":false},
+            "adaptiveStyles":{
+},
+            "scrollbars":"none",
+            "fitToContent":false,
+            "propagate":false,
+            "diagrams":[{
+                "id":"2f56b83b46374a3c893d87c830c75224",
+                "label":"State1",
+                "type":"Axure:PanelDiagram",
+                "objects":[{
+                    "id":"d92f221938a142b1a82608facd1687c6",
+                    "label":"",
+                    "parentDynamicPanel":"8eedbf7a89d14d9c9d4816b6baff685b",
+                    "panelIndex":0,
+                    "type":"buttonShape",
+                    "styleType":"buttonShape",
+                    "visible":true,
+                    "style":{
+                      "size":{
+                        "width":130,
+                        "height":140},
+                      "borderWidth":"-1",
+                      "borderFill":{
+                        "fillType":"solid",
+                        "color":0xFF666666}},
+                    "adaptiveStyles":{
+},
+                    "objects":[{
+                        "id":"23153cd216a845a2bb88b4e295ca9695",
+                        "label":"",
+                        "isContained":true,
+                        "parentDynamicPanel":"8eedbf7a89d14d9c9d4816b6baff685b",
+                        "panelIndex":0,
+                        "type":"richTextPanel",
+                        "styleType":"paragraph",
+                        "visible":true,
+                        "style":{
+                          "size":{
+                            "width":130,
+                            "height":140},
+                          "borderWidth":"-1",
+                          "borderFill":{
+                            "fillType":"solid",
+                            "color":0xFF666666}},
+                        "adaptiveStyles":{
+}}],
+                    "images":{
+                      "normal~":"images/about/u14.png"}},
+{
+                    "id":"617fbd763f134228bd7ec8d8a3d65c92",
+                    "label":"",
+                    "parentDynamicPanel":"8eedbf7a89d14d9c9d4816b6baff685b",
+                    "panelIndex":0,
+                    "type":"buttonShape",
+                    "styleType":"h2",
+                    "visible":true,
+                    "style":{
+                      "fontName":"'Lato-Light', 'Lato Light', 'Lato'",
+                      "fontSize":"16px",
+                      "fontWeight":"200",
+                      "location":{
+                        "x":33,
+                        "y":20},
+                      "size":{
+                        "width":68,
+                        "height":19}},
+                    "adaptiveStyles":{
+},
+                    "objects":[{
+                        "id":"c180a33fa55149fe85222804830525eb",
+                        "label":"",
+                        "isContained":true,
+                        "parentDynamicPanel":"8eedbf7a89d14d9c9d4816b6baff685b",
+                        "panelIndex":0,
+                        "type":"richTextPanel",
+                        "styleType":"paragraph",
+                        "visible":true,
+                        "style":{
+                          "fontName":"'Lato-Light', 'Lato Light', 'Lato'",
+                          "fontSize":"16px",
+                          "fontWeight":"200",
+                          "location":{
+                            "x":33,
+                            "y":20},
+                          "size":{
+                            "width":68,
+                            "height":19}},
+                        "adaptiveStyles":{
+}}],
+                    "interactionMap":{
+                      "onClick":{
+                        "description":"OnClick",
+                        "cases":[{
+                            "description":"Case 1",
+                            "isNewIfGroup":false,
+                            "actions":[{
+                                "action":"linkWindow",
+                                "description":"Open Gallery in Current Window",
+                                "target":{
+                                  "targetType":"page",
+                                  "url":"gallery.html",
+                                  "includeVariables":true},
+                                "linkType":"current"}]}]}},
+                    "tabbable":true,
+                    "images":{
+                      "normal~":"resources/images/transparent.gif"}},
+{
+                    "id":"522e750332b54a1fae4f763f6c033e58",
+                    "label":"",
+                    "parentDynamicPanel":"8eedbf7a89d14d9c9d4816b6baff685b",
+                    "panelIndex":0,
+                    "type":"buttonShape",
+                    "styleType":"h2",
+                    "visible":true,
+                    "style":{
+                      "fontName":"'Lato-Light', 'Lato Light', 'Lato'",
+                      "fontSize":"16px",
+                      "fontWeight":"200",
+                      "location":{
+                        "x":43,
+                        "y":61},
+                      "size":{
+                        "width":52,
+                        "height":19}},
+                    "adaptiveStyles":{
+},
+                    "objects":[{
+                        "id":"ce2e12bcf94d4678a8b0426f179d00ab",
+                        "label":"",
+                        "isContained":true,
+                        "parentDynamicPanel":"8eedbf7a89d14d9c9d4816b6baff685b",
+                        "panelIndex":0,
+                        "type":"richTextPanel",
+                        "styleType":"paragraph",
+                        "visible":true,
+                        "style":{
+                          "fontName":"'Lato-Light', 'Lato Light', 'Lato'",
+                          "fontSize":"16px",
+                          "fontWeight":"200",
+                          "location":{
+                            "x":43,
+                            "y":61},
+                          "size":{
+                            "width":52,
+                            "height":19}},
+                        "adaptiveStyles":{
+}}],
+                    "interactionMap":{
+                      "onClick":{
+                        "description":"OnClick",
+                        "cases":[{
+                            "description":"Case 1",
+                            "isNewIfGroup":false,
+                            "actions":[{
+                                "action":"linkWindow",
+                                "description":"Open Music in Current Window",
+                                "target":{
+                                  "targetType":"page",
+                                  "url":"music.html",
+                                  "includeVariables":true},
+                                "linkType":"current"}]}]}},
+                    "tabbable":true,
+                    "images":{
+                      "normal~":"resources/images/transparent.gif"}},
+{
+                    "id":"fd5ecba5512e4fd8bf9740c6c9342548",
+                    "label":"",
+                    "parentDynamicPanel":"8eedbf7a89d14d9c9d4816b6baff685b",
+                    "panelIndex":0,
+                    "type":"buttonShape",
+                    "styleType":"h2",
+                    "visible":true,
+                    "style":{
+                      "fontName":"'Lato-Light', 'Lato Light', 'Lato'",
+                      "fontSize":"16px",
+                      "fontWeight":"200",
+                      "location":{
+                        "x":39,
+                        "y":101},
+                      "size":{
+                        "width":58,
+                        "height":19}},
+                    "adaptiveStyles":{
+},
+                    "objects":[{
+                        "id":"f2080d5b508048ccbf6dd078cdaa442c",
+                        "label":"",
+                        "isContained":true,
+                        "parentDynamicPanel":"8eedbf7a89d14d9c9d4816b6baff685b",
+                        "panelIndex":0,
+                        "type":"richTextPanel",
+                        "styleType":"paragraph",
+                        "visible":true,
+                        "style":{
+                          "fontName":"'Lato-Light', 'Lato Light', 'Lato'",
+                          "fontSize":"16px",
+                          "fontWeight":"200",
+                          "location":{
+                            "x":39,
+                            "y":101},
+                          "size":{
+                            "width":58,
+                            "height":19}},
+                        "adaptiveStyles":{
+}}],
+                    "interactionMap":{
+                      "onClick":{
+                        "description":"OnClick",
+                        "cases":[{
+                            "description":"Case 1",
+                            "isNewIfGroup":false,
+                            "actions":[{
+                                "action":"linkWindow",
+                                "description":"Open Video in Current Window",
+                                "target":{
+                                  "targetType":"page",
+                                  "url":"video.html",
+                                  "includeVariables":true},
+                                "linkType":"current"}]}]}},
+                    "tabbable":true,
+                    "images":{
+                      "normal~":"resources/images/transparent.gif"}}],
+                "style":{
+                  "fill":{
+                    "fillType":"solid",
+                    "color":0xFFFFFF},
+                  "image":null,
+                  "imageHorizontalAlignment":"near",
+                  "imageVerticalAlignment":"near",
+                  "imageRepeat":"auto"},
+                "adaptiveStyles":{
+}}]},
+{
+            "id":"480b2470312f4605a1754dd33c16af5e",
+            "label":"",
+            "type":"horizontalLine",
+            "styleType":"horizontalLine",
+            "visible":true,
+            "style":{
+              "location":{
+                "x":0,
+                "y":-4},
+              "size":{
+                "width":1230,
+                "height":10},
+              "borderWidth":"3",
+              "borderFill":{
+                "fillType":"solid",
+                "color":0xFF009966}},
+            "adaptiveStyles":{
+},
+            "images":{
+              "start~":"resources/images/transparent.gif",
+              "end~":"resources/images/transparent.gif",
+              "line~":"images/home/u33_line.png"}},
+{
+            "id":"026c36a19d9a4031a69e00a9d4bb9483",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"h2",
+            "visible":true,
+            "style":{
+              "fontName":"'Lato-Light', 'Lato Light', 'Lato'",
+              "fontSize":"16px",
+              "fontWeight":"200",
+              "location":{
+                "x":600,
+                "y":27.5},
+              "size":{
+                "width":50,
+                "height":19}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"2673c4a4786843acb1022703f17c3565",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'Lato-Light', 'Lato Light', 'Lato'",
+                  "fontSize":"16px",
+                  "fontWeight":"200",
+                  "location":{
+                    "x":600,
+                    "y":27.5},
+                  "size":{
+                    "width":50,
+                    "height":19}},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"Open HOME in Current Window",
+                        "target":{
+                          "targetType":"page",
+                          "url":"home.html",
+                          "includeVariables":true},
+                        "linkType":"current"}]}]}},
+            "tabbable":true,
+            "images":{
+              "normal~":"resources/images/transparent.gif"}}]}},
+    "01fcc325c530467984fe7b5b2ffa3547":{
+      "packageId":"01fcc325c530467984fe7b5b2ffa3547",
+      "type":"Axure:Master",
+      "name":"Footer",
+      "notes":{
+},
+      "style":{
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "pageAlignment":"near",
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFFFF},
+        "image":null,
+        "imageHorizontalAlignment":"near",
+        "imageVerticalAlignment":"near",
+        "imageRepeat":"auto",
+        "favicon":null,
+        "sketchFactor":"0",
+        "colorStyle":"appliedColor",
+        "fontName":"Applied Font",
+        "borderWidth":"0"},
+      "adaptiveStyles":{
+},
+      "interactionMap":{
+},
+      "diagram":{
+        "objects":[{
+            "id":"41ef3bbaf98d4cada02ed06d2f1ade2b",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"buttonShape",
+            "visible":true,
+            "style":{
+              "fill":{
+                "fillType":"solid",
+                "color":0xFF45494E},
+              "location":{
+                "x":10.0000610351563,
+                "y":0},
+              "size":{
+                "width":1240,
+                "height":40},
+              "borderWidth":"-1",
+              "borderFill":{
+                "fillType":"solid",
+                "color":0xFFCCCCCC}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"87503be58c5d4824997e6a25026ee01b",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fill":{
+                    "fillType":"solid",
+                    "color":0xFF45494E},
+                  "location":{
+                    "x":10.0000610351563,
+                    "y":0},
+                  "size":{
+                    "width":1240,
+                    "height":40},
+                  "borderWidth":"-1",
+                  "borderFill":{
+                    "fillType":"solid",
+                    "color":0xFFCCCCCC}},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"images/home/u37.png"}},
+{
+            "id":"0759cbc86b3346c6861ecebf18064bd8",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"h2",
+            "visible":true,
+            "style":{
+              "fontName":"'Lato-Light', 'Lato Light', 'Lato'",
+              "fontSize":"16px",
+              "fontWeight":"200",
+              "foreGroundFill":{
+                "fillType":"solid",
+                "color":0xFFCCCCCC,
+                "opacity":1},
+              "location":{
+                "x":155.999969482422,
+                "y":10},
+              "size":{
+                "width":55,
+                "height":19}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"001ff471e4a446e3b9fc362151ffe608",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'Lato-Light', 'Lato Light', 'Lato'",
+                  "fontSize":"16px",
+                  "fontWeight":"200",
+                  "foreGroundFill":{
+                    "fillType":"solid",
+                    "color":0xFFCCCCCC,
+                    "opacity":1},
+                  "location":{
+                    "x":155.999969482422,
+                    "y":10},
+                  "size":{
+                    "width":55,
+                    "height":19}},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"Open ABOUT in Current Window",
+                        "target":{
+                          "targetType":"page",
+                          "url":"about.html",
+                          "includeVariables":true},
+                        "linkType":"current"}]}]}},
+            "tabbable":true,
+            "images":{
+              "normal~":"resources/images/transparent.gif"}},
+{
+            "id":"f53d4424bfdb4c26a8259c052b0cc861",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"h2",
+            "visible":true,
+            "style":{
+              "fontName":"'Lato-Light', 'Lato Light', 'Lato'",
+              "fontSize":"16px",
+              "fontWeight":"200",
+              "foreGroundFill":{
+                "fillType":"solid",
+                "color":0xFFCCCCCC,
+                "opacity":1},
+              "location":{
+                "x":265.999969482422,
+                "y":10},
+              "size":{
+                "width":52,
+                "height":19}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"9b769ca78067462793da96bd147858b4",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'Lato-Light', 'Lato Light', 'Lato'",
+                  "fontSize":"16px",
+                  "fontWeight":"200",
+                  "foreGroundFill":{
+                    "fillType":"solid",
+                    "color":0xFFCCCCCC,
+                    "opacity":1},
+                  "location":{
+                    "x":265.999969482422,
+                    "y":10},
+                  "size":{
+                    "width":52,
+                    "height":19}},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onMouseOver":{
+                "description":"OnMouseOver",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"fadeWidget",
+                        "description":"Show/Hide Widget",
+                        "objectsToFades":[]}]}]}},
+            "images":{
+              "normal~":"resources/images/transparent.gif"}},
+{
+            "id":"2be18e679a5f453690f4a43882db3413",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"h2",
+            "visible":true,
+            "style":{
+              "fontName":"'Lato-Light', 'Lato Light', 'Lato'",
+              "fontSize":"16px",
+              "fontWeight":"200",
+              "foreGroundFill":{
+                "fillType":"solid",
+                "color":0xFFCCCCCC,
+                "opacity":1},
+              "location":{
+                "x":371.999969482422,
+                "y":10},
+              "size":{
+                "width":58,
+                "height":19}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"412ea9118ecc44ca877779fd940cd980",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'Lato-Light', 'Lato Light', 'Lato'",
+                  "fontSize":"16px",
+                  "fontWeight":"200",
+                  "foreGroundFill":{
+                    "fillType":"solid",
+                    "color":0xFFCCCCCC,
+                    "opacity":1},
+                  "location":{
+                    "x":371.999969482422,
+                    "y":10},
+                  "size":{
+                    "width":58,
+                    "height":19}},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"Open EVENTS in Current Window",
+                        "target":{
+                          "targetType":"page",
+                          "url":"events.html",
+                          "includeVariables":true},
+                        "linkType":"current"}]}]}},
+            "tabbable":true,
+            "images":{
+              "normal~":"resources/images/transparent.gif"}},
+{
+            "id":"ad6a74e4108f4986b6b5d75f258d7497",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"h2",
+            "visible":true,
+            "style":{
+              "fontName":"'Lato-Light', 'Lato Light', 'Lato'",
+              "fontSize":"16px",
+              "fontWeight":"200",
+              "foreGroundFill":{
+                "fillType":"solid",
+                "color":0xFFCCCCCC,
+                "opacity":1},
+              "location":{
+                "x":483.999969482422,
+                "y":10},
+              "size":{
+                "width":76,
+                "height":19}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"4620515b305041beaa18ee93f03ef621",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'Lato-Light', 'Lato Light', 'Lato'",
+                  "fontSize":"16px",
+                  "fontWeight":"200",
+                  "foreGroundFill":{
+                    "fillType":"solid",
+                    "color":0xFFCCCCCC,
+                    "opacity":1},
+                  "location":{
+                    "x":483.999969482422,
+                    "y":10},
+                  "size":{
+                    "width":76,
+                    "height":19}},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"Open CONTACT in Current Window",
+                        "target":{
+                          "targetType":"page",
+                          "url":"contact.html",
+                          "includeVariables":true},
+                        "linkType":"current"}]}]}},
+            "tabbable":true,
+            "images":{
+              "normal~":"resources/images/transparent.gif"}},
+{
+            "id":"9c9923c62a4e46febcdc252ed664beb6",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"h2",
+            "visible":true,
+            "style":{
+              "fontName":"'Lato-Light', 'Lato Light', 'Lato'",
+              "fontSize":"16px",
+              "fontWeight":"200",
+              "foreGroundFill":{
+                "fillType":"solid",
+                "color":0xFFCCCCCC,
+                "opacity":1},
+              "location":{
+                "x":54.9999694824219,
+                "y":10},
+              "size":{
+                "width":50,
+                "height":19}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"816b3c0e46bc4fed873744e829a628ca",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'Lato-Light', 'Lato Light', 'Lato'",
+                  "fontSize":"16px",
+                  "fontWeight":"200",
+                  "foreGroundFill":{
+                    "fillType":"solid",
+                    "color":0xFFCCCCCC,
+                    "opacity":1},
+                  "location":{
+                    "x":54.9999694824219,
+                    "y":10},
+                  "size":{
+                    "width":50,
+                    "height":19}},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"Open HOME in Current Window",
+                        "target":{
+                          "targetType":"page",
+                          "url":"home.html",
+                          "includeVariables":true},
+                        "linkType":"current"}]}]}},
+            "tabbable":true,
+            "images":{
+              "normal~":"resources/images/transparent.gif"}},
+{
+            "id":"d0b0d3d9b08a4181bce457b79e660d24",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"h2",
+            "visible":true,
+            "style":{
+              "fontName":"'Lato-Light', 'Lato Light', 'Lato'",
+              "fontSize":"16px",
+              "fontWeight":"200",
+              "foreGroundFill":{
+                "fillType":"solid",
+                "color":0xFFCCCCCC,
+                "opacity":1},
+              "location":{
+                "x":994,
+                "y":10},
+              "size":{
+                "width":241,
+                "height":19}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"24e0b73a476949739dff6e3564be539b",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'Lato-Light', 'Lato Light', 'Lato'",
+                  "fontSize":"16px",
+                  "fontWeight":"200",
+                  "foreGroundFill":{
+                    "fillType":"solid",
+                    "color":0xFFCCCCCC,
+                    "opacity":1},
+                  "location":{
+                    "x":994,
+                    "y":10},
+                  "size":{
+                    "width":241,
+                    "height":19}},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"resources/images/transparent.gif"}}]}}},
+  "objectPaths":{
+    "b317ebb2035b4278ae50e33892232dc3":{
+      "scriptId":"u0"},
+    "95d716545dd949ce8757f3bc5dfbc0a7":{
+      "scriptId":"u1"},
+    "bef69ea3faf4468880cc2f4b7cfa6251":{
+      "scriptId":"u2",
+      "f3b41e21a2364f50ac62521579a1461e":{
+        "scriptId":"u3"},
+      "5479293b88c644559ce2fa7a48c994be":{
+        "scriptId":"u4"},
+      "3e930f9f63fb4c45862143181f3d638b":{
+        "scriptId":"u5"},
+      "1734c82533e0443299755c5be1b66c5c":{
+        "scriptId":"u6"},
+      "83ed053875d74f4f959804b4366639c2":{
+        "scriptId":"u7"},
+      "acf66e9ba5d3485aae8c326ec8a97aa7":{
+        "scriptId":"u8"},
+      "e72e8b5d5c5e4fc4937087f6b4d5b276":{
+        "scriptId":"u9"},
+      "23a2eb521c1c48a5b1a474e62037755c":{
+        "scriptId":"u10"},
+      "7185b9448c304f0ba6e35372995b9060":{
+        "scriptId":"u11"},
+      "6f6082e0ca7c489da5ec4a99bc8037d1":{
+        "scriptId":"u12"},
+      "8eedbf7a89d14d9c9d4816b6baff685b":{
+        "scriptId":"u13"},
+      "d92f221938a142b1a82608facd1687c6":{
+        "scriptId":"u14"},
+      "23153cd216a845a2bb88b4e295ca9695":{
+        "scriptId":"u15"},
+      "617fbd763f134228bd7ec8d8a3d65c92":{
+        "scriptId":"u16"},
+      "c180a33fa55149fe85222804830525eb":{
+        "scriptId":"u17"},
+      "522e750332b54a1fae4f763f6c033e58":{
+        "scriptId":"u18"},
+      "ce2e12bcf94d4678a8b0426f179d00ab":{
+        "scriptId":"u19"},
+      "fd5ecba5512e4fd8bf9740c6c9342548":{
+        "scriptId":"u20"},
+      "f2080d5b508048ccbf6dd078cdaa442c":{
+        "scriptId":"u21"},
+      "480b2470312f4605a1754dd33c16af5e":{
+        "scriptId":"u22"},
+      "026c36a19d9a4031a69e00a9d4bb9483":{
+        "scriptId":"u23"},
+      "2673c4a4786843acb1022703f17c3565":{
+        "scriptId":"u24"}},
+    "06740d5024ae481eb4776a59312d2297":{
+      "scriptId":"u25"},
+    "9383c381526c4dfab4dd4eed74d4178c":{
+      "scriptId":"u26"},
+    "c928b36265d4466ea6d2a565f4ea61d6":{
+      "scriptId":"u27"},
+    "0e9e49f9e4d343889382e9252f412952":{
+      "scriptId":"u28"},
+    "cd4f5350882e429883c75c24362afbde":{
+      "scriptId":"u29"},
+    "fabffd23719444538c86a6707ec88d66":{
+      "scriptId":"u30"},
+    "dcc9b754ecbb4236ac300e59781a73bb":{
+      "scriptId":"u31"},
+    "39e1216a84fa4d9d81c8fccfb9a1da80":{
+      "scriptId":"u32"},
+    "04c61d2ab891479bb43e15534c01e136":{
+      "scriptId":"u33",
+      "41ef3bbaf98d4cada02ed06d2f1ade2b":{
+        "scriptId":"u34"},
+      "87503be58c5d4824997e6a25026ee01b":{
+        "scriptId":"u35"},
+      "0759cbc86b3346c6861ecebf18064bd8":{
+        "scriptId":"u36"},
+      "001ff471e4a446e3b9fc362151ffe608":{
+        "scriptId":"u37"},
+      "f53d4424bfdb4c26a8259c052b0cc861":{
+        "scriptId":"u38"},
+      "9b769ca78067462793da96bd147858b4":{
+        "scriptId":"u39"},
+      "2be18e679a5f453690f4a43882db3413":{
+        "scriptId":"u40"},
+      "412ea9118ecc44ca877779fd940cd980":{
+        "scriptId":"u41"},
+      "ad6a74e4108f4986b6b5d75f258d7497":{
+        "scriptId":"u42"},
+      "4620515b305041beaa18ee93f03ef621":{
+        "scriptId":"u43"},
+      "9c9923c62a4e46febcdc252ed664beb6":{
+        "scriptId":"u44"},
+      "816b3c0e46bc4fed873744e829a628ca":{
+        "scriptId":"u45"},
+      "d0b0d3d9b08a4181bce457b79e660d24":{
+        "scriptId":"u46"},
+      "24e0b73a476949739dff6e3564be539b":{
+        "scriptId":"u47"}},
+    "8f4e9f10764e4dd996a42fef3dc565fc":{
+      "scriptId":"u48"},
+    "7d2ddf076fa0469fa89ec7f4057ce1b3":{
+      "scriptId":"u49"},
+    "87e96be9f60f43fc846b8708b1930a24":{
+      "scriptId":"u50"},
+    "e69d5e7aa62e4320b7689911a432b1dc":{
+      "scriptId":"u51"},
+    "b0e0b8dfc49a498ebc60a3be8705686b":{
+      "scriptId":"u52"},
+    "686e8d943cf543bd908e4374ed58fc2a":{
+      "scriptId":"u53"},
+    "2da50d98cbc04953940784f80e1e7487":{
+      "scriptId":"u54"},
+    "a64c7f8abba1437facd5c0bea4bbb475":{
+      "scriptId":"u55"},
+    "8106b00d33304800b52a37647b302423":{
+      "scriptId":"u56"}}});
