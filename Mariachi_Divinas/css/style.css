@@ -1,0 +1,9 @@
+.headline {
+    background-image: url(../img/home.jpg);
+    background-repeat: no-repeat;
+}
+
+.small-intro {
+    padding-top: 500px;
+    padding-bottom: 200px;
+}
