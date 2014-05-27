@@ -48,3 +48,41 @@ p {
 .footer-txt {
     font-weight: 500;
 }
+
+.mainbio{
+
+    text-align: center;
+    width: 1000px;
+}
+
+.membertitle{
+
+    text-align: center;
+}
+
+.bioright{
+
+    text-align: right;
+    width: 500px;
+}
+
+.bioleft{
+
+    text-align: left;
+    width: 500px;
+}
+
+.memberleft{
+
+    float: left;
+}
+
+.memberright{
+
+    float: right;
+}
+
+.eventtitle{
+
+    text-align: center;
+}
