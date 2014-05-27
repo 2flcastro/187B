@@ -1,9 +1,50 @@
-.headline {
-    background-image: url(../img/home.jpg);
-    background-repeat: no-repeat;
+/* FONTS */
+h3{
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
 }
 
-.small-intro {
-    padding-top: 500px;
-    padding-bottom: 200px;
+p {
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+}
+
+
+.headline-home {
+    background: url(../img/home.jpg) no-repeat 0% -10% fixed;
+    padding: 200px 0 250px 0;
+    margin-bottom: 10px;
+    background-size: cover;
+}
+
+.title-img {
+    margin-bottom: 400px;
+    margin-top: -180px
+}
+
+.text-box {
+    background: white;
+    padding: 20px 80px;
+}
+
+.btn {
+    border-radius: 6px;
+    border: solid 1px;
+    padding: 3px;
+    color: grey;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+}
+
+.btn:hover {
+    color: #0F8F6A ;
+}
+
+.contain-to-grid {
+    border-bottom: 3px solid #0F8F6A;
+    border-top: 3px solid #0F8F6A;
+}
+
+.footer-txt {
+    font-weight: 500;
 }

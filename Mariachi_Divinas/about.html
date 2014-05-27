@@ -1,39 +1,44 @@
 <!DOCTYPE html>
 <html>
     <head> 
+        <title>Mariachi Divinas | Home</title>
         <meta charset="utf-8" />
-        <title>Mariachi Divinas | About</title>
-    </head>
-    
-    <body>
-        
-<!-------------- Background Image ------------>
-        <img src="#" />
-        
-<!-------------- Logo Image ------------------>
-        <div>
-        <img src="#" />
-        </div>
-        
+        <link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" href="css/normalize.css">
+        <link rel="stylesheet" href="css/foundation.css">
+        <link rel="stylesheet" href="css/style.css">
+        <script src="js/vendor/modernizr.js"></script>
+    </head>    
+<body>
+          
 <!-- Navigation Bar Homepage --> 
         <div class="contain-to-grid fixed">
             <nav class="top-bar" data-topbar>
                     <section class="top-bar-section">
+                        <ul class="left">
+                            <li><a href="index.html">HOME</a></li>
+                        </ul>
                         <ul class="right">
-                        <li><a href="about.html">About</a></li>
-                        <li class="has-dropdown"><a href="#">Media</a>
+                            <li class="divider"></li>
+                        <li class="active"><a href="about.html">ABOUT</a></li>
+                            <li class="divider"></li>
+                        <li class="has-dropdown"><a href="#">MEDIA</a>
                             <ul class="dropdown">
-                                <li><a href="gallery.html">Gallery</a></li>
-                                <li><a href="music.html">Music</a></li>
-                                <li><a href="video.html">Video</a></li>
+                                <li ><a href="gallery.html">GALLERY</a></li>
+                                <li><a href="music.html">MUSIC</a></li>
+                                <li><a href="video.html">VIDEO</a></li>
                             </ul>
                         </li>
-                        <li><a href="events.html">Events</a></li>
-                        <li><a href="contact.html">Contact</a></li>
+                            <li class="divider"></li>
+                        <li><a href="events.html">EVENTS</a></li>
+                            <li class="divider"></li>
+                        <li><a href="contact.html">CONTACT</a></li>
+                            <li class="divider"></li>
                         </ul>
                     </section>
             </nav> 
         </div> 
+
     
 <!-- Content -->
         
@@ -43,22 +48,19 @@
 <!-- End Content -->        
         
         
-<!--------- Footer ---------------->  
-        <div>
-            <ul>
-                <li>Home</li>
-                <li>About</li>
-                <li>Media</li>
-                    <ul>
-                        <li>Gallery</li>
-                        <li>Music</li>
-                        <li>Video</li>
-                    </ul>    
-                <li>Events</li>
-                <li>Contact</li>
-            </ul>
-            <p>&copy; 2014 Mariachi Divinas</p>
-        </div>
+<!-- Footer -->  
+    <div class="row">
+        <hr>
+        <p class="columns large-3 large-centered">&copy; 2014 Mariachi Divinas</p>
+    </div>
+    
+    
+<!-- Scripts -->        
+     <script src="js/vendor/jquery.js"></script>
+    <script src="js/foundation.min.js"></script>
+    <script>
+      $(document).foundation();
+    </script>
         
     </body>
 </html>
