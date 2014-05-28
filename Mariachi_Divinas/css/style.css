@@ -1,43 +1,65 @@
-/* FONTS */
-h3{
+/* FONTS / GLOBAL*/
+h3 {
     font-family: 'Lato', sans-serif;
     font-weight: 300;
 }
+
 
 p {
     font-family: 'Lato', sans-serif;
     font-weight: 300;
 }
 
+a {
+    color: #0F8F6A;
+}
 
+a:hover {
+    font-weight: 500;
+    color: #81B864;
+}
+
+iframe {
+    margin: 10px;
+}
+
+img {
+    margin-bottom: 10px;
+}
+    
+/* HOMEPAGE STYLES */
 .headline-home {
-    background: url(../img/home.jpg) no-repeat 0% -10% fixed;
+    background: url(../img/home.jpg) no-repeat 0% -20% fixed;
     padding: 200px 0 250px 0;
     margin-bottom: 10px;
     background-size: cover;
 }
 
-.title-img {
+.title-img-home {
     margin-bottom: 400px;
     margin-top: -180px
 }
 
+.title-img {
+    margin-top: -180px
+}
 .text-box {
-    background: white;
+    background: rgba(243,243,243,0.92);
     padding: 20px 80px;
 }
 
 .btn {
-    border-radius: 6px;
-    border: solid 1px;
+    border-radius: 2px;
+    border: solid 2px;
     padding: 3px;
-    color: grey;
+    color: #0F8F6A;
     font-family: 'Lato', sans-serif;
     font-weight: 400;
+    
 }
 
 .btn:hover {
-    color: #0F8F6A ;
+    color: #81B864 ;
 }
 
 .contain-to-grid {
@@ -49,40 +71,29 @@ p {
     font-weight: 500;
 }
 
-.mainbio{
 
-    text-align: center;
-    width: 1000px;
+/* ABOUT STYLES */
+.headline-about {
+    background: url(../img/about.jpg) no-repeat fixed;
+    padding: 200px 0 300px 0;
+    margin-bottom: 10px;
+    background-size: cover;
 }
 
-.membertitle{
-
-    text-align: center;
+/* EVENTS STYLES */
+.headline-events {
+    background: url(../img/events.jpg) no-repeat fixed;
+    padding: 200px 0 300px 0;
+    margin-bottom: 10px;
+    background-size: cover;
 }
 
-.bioright{
-
-    text-align: right;
-    width: 500px;
+/* CONTACT STYLES */
+.headline-contact {
+    background: url(../img/contact.jpg) no-repeat fixed;
+    padding: 200px 0 300px 0;
+    margin-bottom: 10px;
+    background-size: cover;
 }
 
-.bioleft{
 
-    text-align: left;
-    width: 500px;
-}
-
-.memberleft{
-
-    float: left;
-}
-
-.memberright{
-
-    float: right;
-}
-
-.eventtitle{
-
-    text-align: center;
-}
