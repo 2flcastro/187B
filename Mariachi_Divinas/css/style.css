@@ -1,3 +1,32 @@
+/* ===== BACKGROUND ====== */
+.bg-img { 
+  background: url(../img/about.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+/* ====== NAVIGATION ===== */
+.contain-to-grid {
+    border-bottom: 3px solid #0F8F6A;
+    border-top: 3px solid #0F8F6A;
+}
+
+.footer-txt {
+    font-weight: 500;
+}
+
+/* ===== HOME ===== */
+.bg-box {
+    background: rgba(243,243,243,0.92);
+    padding: ;
+
+}
+
+
+
+
 /* FONTS / GLOBAL*/
 h3 {
     font-family: 'Lato', sans-serif;
@@ -19,17 +48,14 @@ a:hover {
     color: #81B864;
 }
 
-iframe {
-    margin: 10px;
-}
 
-img {
-    margin-bottom: 10px;
-}
-    
-/* HOMEPAGE STYLES */
+
+
+
+
+/* HOMEPAGE STYLES */ /*
 .headline-home {
-    background: url(../img/home.jpg) no-repeat 0% -20% fixed;
+    background: url(../img/about.jpg) no-repeat 0% -20% fixed;
     padding: 200px 0 250px 0;
     margin-bottom: 10px;
     background-size: cover;
@@ -37,16 +63,16 @@ img {
 
 .title-img-home {
     margin-bottom: 400px;
-    margin-top: -180px
+    margin-top: -180px;
+    border-bottom: 1px solid #0F8F6A;
 }
 
 .title-img {
-    margin-top: -180px
+    margin-top: -180px;
+    border-bottom: 1px solid #0F8F6A;
 }
-.text-box {
-    background: rgba(243,243,243,0.92);
-    padding: 20px 80px;
-}
+
+*/
 
 .btn {
     border-radius: 2px;
@@ -62,17 +88,9 @@ img {
     color: #81B864 ;
 }
 
-.contain-to-grid {
-    border-bottom: 3px solid #0F8F6A;
-    border-top: 3px solid #0F8F6A;
-}
 
-.footer-txt {
-    font-weight: 500;
-}
+/*
 
-
-/* ABOUT STYLES */
 .headline-about {
     background: url(../img/about.jpg) no-repeat fixed;
     padding: 200px 0 300px 0;
@@ -80,7 +98,6 @@ img {
     background-size: cover;
 }
 
-/* EVENTS STYLES */
 .headline-events {
     background: url(../img/events.jpg) no-repeat fixed;
     padding: 200px 0 300px 0;
@@ -88,7 +105,6 @@ img {
     background-size: cover;
 }
 
-/* CONTACT STYLES */
 .headline-contact {
     background: url(../img/contact.jpg) no-repeat fixed;
     padding: 200px 0 300px 0;
@@ -96,4 +112,7 @@ img {
     background-size: cover;
 }
 
-
+.home-img {
+    margin-top: -150px;
+}
+*/
