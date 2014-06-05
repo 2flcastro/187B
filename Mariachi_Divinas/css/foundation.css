@@ -1360,7 +1360,7 @@ meta.foundation-mq-topbar {
     padding-left: 15px;
     font-family: "Lato","Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
     font-size: 0.8125rem;
-    font-weight: 300;
+    font-weight: 100;
     text-transform: none;
     background: #333333; }
     .top-bar-section ul li > a.button {

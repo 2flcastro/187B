@@ -1,6 +1,6 @@
 /* ===== BACKGROUND ====== */
 .bg-img { 
-  background: url(../img/aboutimage.jpg) no-repeat center 35px fixed; 
+  background: url(../img/horizontal1.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -14,28 +14,42 @@
 }
 
 .logo {
-    
+    margin-left: 12%; 
+    margin-bottom: 5px;
+    border-bottom: 1px solid white;
+    padding-bottom: 2px;    
 }
 
 .footer-txt {
-    font-weight: 500;
+    font-weight: 300;
 }
 
 /* ===== HOME ===== */
 .bg-box {
-    background: rgba(243,243,243,0.92);
+    background: rgba(243,243,243,0.90);
     padding: 20px;
     margin-bottom: 10px;
 }
 
 .player {
-    margin-top: 100px;
-    margin-right: 50px;
+    margin-top: 15px;
 }
 
 .title-img {
-    margin-top: 400px;
-    margin-bottom: 50px;
+    margin-bottom: 20px;
+    border-bottom: 3px solid #0F8F6A;
+    padding-bottom: 5px;
+}
+
+.contain {
+ /* background: url(../img/furley_bg.png) repeat; */
+ /* background-color:  #F3F3F3; */
+  border-top: 0px solid #0F8F6A;
+
+}
+
+.space {
+    padding-top: 480px;
 }
 
 /* ======= ABOUT ====== */
@@ -45,7 +59,7 @@
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    padding-bottom: 500px;   
+    padding-bottom: 450px;   
 }
 
 
