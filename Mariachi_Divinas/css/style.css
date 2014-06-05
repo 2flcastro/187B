@@ -9,13 +9,14 @@
 
 /* ====== NAVIGATION ===== */
 .contain-to-grid {
-    border-bottom: 0px solid #0F8F6A;
+    border-bottom: 3px solid #0F8F6A;
     border-top: 3px solid #0F8F6A;
 }
 
 .logo {
-    margin-left: 10%;
+    
 }
+
 
 .footer-txt {
     font-weight: 500;
