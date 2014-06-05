@@ -9,8 +9,12 @@
 
 /* ====== NAVIGATION ===== */
 .contain-to-grid {
-    border-bottom: 3px solid #0F8F6A;
+    border-bottom: 0px solid #0F8F6A;
     border-top: 3px solid #0F8F6A;
+}
+
+.logo {
+    margin-left: 10%;
 }
 
 .footer-txt {
@@ -20,13 +24,19 @@
 /* ===== HOME ===== */
 .bg-box {
     background: rgba(243,243,243,0.92);
-    padding: 5px;
-    margin: 5px;
-
+    padding: 20px;
+    margin-bottom: 10px;
 }
 
+.player {
+    margin-top: 100px;
+    margin-right: 50px;
+}
 
-
+.title-img {
+    margin-top: 400px;
+    margin-bottom: 50px;
+}
 
 /* FONTS / GLOBAL*/
 h3 {
