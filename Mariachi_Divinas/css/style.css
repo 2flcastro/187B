@@ -1,6 +1,6 @@
 /* ===== BACKGROUND ====== */
 .bg-img { 
-  background: url(../img/about.jpg) no-repeat center center fixed; 
+  background: url(../img/aboutimage.jpg) no-repeat center 35px fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -16,7 +16,6 @@
 .logo {
     
 }
-
 
 .footer-txt {
     font-weight: 500;
@@ -39,16 +38,30 @@
     margin-bottom: 50px;
 }
 
+/* ======= ABOUT ====== */
+.img-about {
+    background: url(../img/about.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding-bottom: 500px;   
+}
+
+
+
 /* FONTS / GLOBAL*/
 h3 {
     font-family: 'Lato', sans-serif;
     font-weight: 300;
+    margin: 10px;
 }
 
 
 p {
     font-family: 'Lato', sans-serif;
     font-weight: 300;
+    margin: 10px;
 }
 
 a {
@@ -102,13 +115,13 @@ a:hover {
 
 
 /*
-
 .headline-about {
-    background: url(../img/about.jpg) no-repeat fixed;
+    background: url(../img/aboutimage.jpg) no-repeat fixed;
     padding: 200px 0 300px 0;
     margin-bottom: 10px;
     background-size: cover;
 }
+
 
 .headline-events {
     background: url(../img/events.jpg) no-repeat fixed;
