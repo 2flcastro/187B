@@ -137,7 +137,16 @@ a:hover {
     color: #81B864 ;
 }
 
+.gray-col {
+    background-color: #F3F3F3;
+    padding: 10px;
+}
 
+.contact-col {
+    margin-top: 20px;
+    background-color: #F3F3F3;
+    padding: 15px;
+}
 /*
 .headline-about {
     background: url(../img/aboutimage.jpg) no-repeat fixed;
