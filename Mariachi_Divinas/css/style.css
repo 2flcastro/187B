@@ -20,8 +20,17 @@
     padding-bottom: 2px;    
 }
 
+.footer {
+    background-color: #45494E;
+}
+
 .footer-txt {
     font-weight: 300;
+    color: gray;
+}
+
+.icon {
+    max-height: 30px;
 }
 
 /* ===== HOME ===== */
@@ -36,7 +45,7 @@
 }
 
 .title-img {
-    margin-bottom: 20px;
+    margin-bottom: 60px;
     border-bottom: 3px solid #0F8F6A;
     padding-bottom: 5px;
 }
@@ -59,18 +68,17 @@
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    padding-bottom: 450px;   
+    padding-bottom: 350px;   
 }
 
 
 
-/* FONTS / GLOBAL*/
+/* ====== FONTS / GLOBAL ======= */
 h3 {
     font-family: 'Lato', sans-serif;
     font-weight: 300;
     margin: 10px;
 }
-
 
 p {
     font-family: 'Lato', sans-serif;
@@ -87,7 +95,9 @@ a:hover {
     color: #81B864;
 }
 
-
+.contact-img {
+    margin-top: 20px;
+}
 
 
 
