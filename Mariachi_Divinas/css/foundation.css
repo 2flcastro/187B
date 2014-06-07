@@ -1558,6 +1558,7 @@ meta.foundation-mq-topbar {
       color: white; }
     .top-bar-section li:not(.has-form) a:not(.button) {
       padding: 0 15px;
+      margin-right: 5px; 
       line-height: 45px;
       background: #333333; }
       .top-bar-section li:not(.has-form) a:not(.button):hover {
@@ -2331,7 +2332,7 @@ div.switch {
     top: 10px;
     left: 10px;
     font-size: 12px;
-    color: white;
+    color: #0F8F6A;
     background: rgba(0, 0, 0, 0);
     z-index: 10; }
     .orbit-container .orbit-slide-number span {
@@ -2359,7 +2360,7 @@ div.switch {
       right: 0;
       width: 11px;
       height: 14px;
-      border: solid 4px white;
+      border: solid 4px #0F8F6A;
       border-top: none;
       border-bottom: none; }
     .orbit-container .orbit-timer.paused > span {
@@ -2374,7 +2375,7 @@ div.switch {
       -ms-transform: rotate(180deg);
       -o-transform: rotate(180deg);
       transform: rotate(180deg);
-      border-color: transparent white transparent transparent; }
+      border-color: transparent #0F8F6A transparent transparent; }
       .orbit-container .orbit-timer.paused > span.dark {
         border-color: transparent #333333 transparent transparent; }
   .orbit-container:hover .orbit-timer > span {
@@ -2408,7 +2409,7 @@ div.switch {
     .orbit-container .orbit-prev > span {
       border-right-style: solid;
       border-color: transparent;
-      border-right-color: white; }
+      border-right-color: #0F8F6A; }
     .orbit-container .orbit-prev:hover > span {
       border-right-color: white; }
   .orbit-container .orbit-next {
@@ -2416,7 +2417,7 @@ div.switch {
     .orbit-container .orbit-next > span {
       border-color: transparent;
       border-left-style: solid;
-      border-left-color: white;
+      border-left-color: #0F8F6A;
       left: 50%;
       margin-left: -4px; }
     .orbit-container .orbit-next:hover > span {
@@ -3573,7 +3574,7 @@ dialog[open] {
     display: inline;
     margin-left: 1rem;
     margin-bottom: 0.625rem;
-    font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+    font-family: "Lato", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
     font-weight: normal;
     font-size: 0.875rem;
     color: #999999; }
@@ -3586,20 +3587,21 @@ dialog[open] {
       .sub-nav dt a:hover,
       .sub-nav dd a:hover,
       .sub-nav li a:hover {
-        color: #737373; }
+        color: #7EC78D}
     .sub-nav dt.active a,
     .sub-nav dd.active a,
     .sub-nav li.active a {
       border-radius: 3px;
-      font-weight: normal;
-      background: #008cba;
+      font-family: 'Lato', "Helvetica Neue", sans-serif;
+      font-weight: 100;
+      background: #0F8F6A;
       padding: 0.1875rem 1rem;
       cursor: default;
       color: white; }
       .sub-nav dt.active a:hover,
       .sub-nav dd.active a:hover,
       .sub-nav li.active a:hover {
-        background: #0078a0; }
+        background: #0F8F6A; }
 
 /* Foundation Joyride */
 .joyride-list {

@@ -11,33 +11,43 @@
     </head>    
 <body>
           
+<div id="top"></div>
 <!-- Navigation Bar Homepage --> 
-        <div class="contain-to-grid fixed">
+        <div class="contain-to-grid">
             <nav class="top-bar" data-topbar>
                  <ul class="title-area">
-                    <li class="name hide-for-large">
-                      <h1><a href="index.html"><h1>Mariachi Divinas</h5></a></h1>
+                    <li class="name">
+                      <h1><a href="index.html"><img class="logo" src="img/logo.svg"/></a></h1>
                     </li>
                     <li class="toggle-topbar menu-icon"><a href="#"><span></span></a></li>
                 </ul>    
                     <section class="top-bar-section">
-                        <a href="index.html"><img class="logo hide-for-small hide-for-medium" src="img/logo.svg"/></a>
                         <ul class="right">
-                        <!--  <li class="active"><a href="index.html">HOME</a></li>-->
-                            <li><a href="index.html">HOME</a>
-                            <li><a href="about.html">ABOUT</a></li>
-                            <li class="active"><a href="media.html">MEDIA</a></li>
-                            <li><a href="events.html">EVENTS</a></li>
-                            <li><a href="contact.html">CONTACT</a></li>
+                            <li class="text-center"><a href="about.html">ABOUT</a></li>
+                            <li class="active text-center"><a href="media.html">MEDIA</a></li>
+                            <li class="text-center"><a href="events.html">EVENTS</a></li>
+                            <li class="text-center"><a href="contact.html">CONTACT</a></li>
                         </ul>
                     </section>
             </nav> 
         </div>  
- 
+    
+    
+    <div data-magellan-expedition="fixed">
+  <dl class="sub-nav">
+    <dd data-magellan-arrival="top"><a href="#top"><img class="icon" src="img/fi-arrow-up.svg" />TOP </a></dd>
+    <dd data-magellan-arrival="music"><a href="#music">Music</a></dd>
+    <dd data-magellan-arrival="gallery"><a href="#gallery">Gallery</a></dd>
+    <dd data-magellan-arrival="videos"><a href="#videos">Videos</a></dd>
 
+
+  </dl>
+</div>
+ 
     
 <!-- Content -->
     <div id="music" class="row">
+        <a name="music"></a><h3 data-magellan-destination="music">Music</h3>
         <h3 class="columns small-12 large-12 text-center">MUSIC</h3>
         <hr>
         <div class="columns small-12 large-10 large-centered">
@@ -49,7 +59,8 @@
 <!-- End Content -->        
     
 <!-- Content -->
-    <div class="row">
+    <div id="gallery" class="row">
+         <a name="gallery"></a><h3 data-magellan-destination="gallery">Gallery</h3>
         <h3 class="columns small-12 large-12 text-center">GALLERY</h3>
         <hr>
     </div>
@@ -114,7 +125,8 @@
 <!-- End Content -->      
 
 <!-- Content -->
-    <div class="row">
+    <div id="videos" class="row">
+        <a name="videos"></a><h3 data-magellan-destination="videos">Videos</h3>
         <h3 class="columns small-12 large-12 text-center">VIDEOS</h3>
         <hr>
     </div>
@@ -128,10 +140,10 @@
 <!-- End Content -->        
     </div>
     
-    <hr>    
 <!-- Footer -->  
      <div class="row">
-        <p class="columns small-12 text-center footer-txt"><a href="contact.html">Contact</a>: (619)735-4740 | <a href="https://www.facebook.com/MariachiDivinas"><img class="icon-ft" src="img/fi-social-facebook.svg" /></a> | &copy;2014 Mariachi Divinas</p>
+         <hr>
+        <p class="columns small-12 text-center footer-txt"><a href="index.html">HOME |</a><a href="about.html"> ABOUT |</a><a href="media.html"> MEDIA |</a><a href="events.html"> EVENTS |</a><a href="contact.html"> CONTACT</a><br><img class="icon-ft" src="img/fi-telephone.svg" />(619)735-4740 | <a href="https://www.facebook.com/MariachiDivinas"><img class="icon-ft" src="img/fi-social-facebook.svg" /></a> | &copy;2014 Mariachi Divinas</p>
     </div>
     
     

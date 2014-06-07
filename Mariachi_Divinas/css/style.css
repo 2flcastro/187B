@@ -14,10 +14,8 @@
 }
 
 .logo {
-    margin-left: 12%; 
-    margin-bottom: 5px;
+    margin-bottom: 6px;
     margin-top: 3px;  
-    padding: 2px;    
 }
 
 .footer {
@@ -65,6 +63,14 @@
     padding-top: 480px;
 }
 
+blockquote {
+    padding: 6px;
+}
+.orbit-slide-number {
+    margin: -13px;
+    padding: 3px;
+}
+
 /* ======= ABOUT ====== */
 .img-about {
     background: url(../img/about.jpg) no-repeat center center fixed; 
@@ -74,6 +80,7 @@
     background-size: cover;
     padding-bottom: 350px;   
 }
+
 
 
 
@@ -111,12 +118,7 @@ a:hover {
 
 
 .btn {
-    border-radius: 2px;
-    border: solid 2px;
-    padding: 3px;
-    color: #0F8F6A;
-    font-family: 'Lato', sans-serif;
-    font-weight: 400;
+    padding:20px;
     
 }
 
