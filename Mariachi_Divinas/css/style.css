@@ -33,6 +33,10 @@
     max-height: 30px;
 }
 
+.icon-ft {
+    max-height: 24px;
+}
+
 /* ===== HOME ===== */
 .bg-box {
     background: rgba(243,243,243,0.90);
@@ -80,6 +84,12 @@ h3 {
     margin: 10px;
 }
 
+h1 {
+    font-family: 'Lato', sans-serif;
+    font-weight: 100;
+    color: white;
+}
+
 p {
     font-family: 'Lato', sans-serif;
     font-weight: 300;
@@ -95,33 +105,10 @@ a:hover {
     color: #81B864;
 }
 
-.contact-img {
+.contact_img {
     margin-top: 20px;
 }
 
-
-
-
-/* HOMEPAGE STYLES */ /*
-.headline-home {
-    background: url(../img/about.jpg) no-repeat 0% -20% fixed;
-    padding: 200px 0 250px 0;
-    margin-bottom: 10px;
-    background-size: cover;
-}
-
-.title-img-home {
-    margin-bottom: 400px;
-    margin-top: -180px;
-    border-bottom: 1px solid #0F8F6A;
-}
-
-.title-img {
-    margin-top: -180px;
-    border-bottom: 1px solid #0F8F6A;
-}
-
-*/
 
 .btn {
     border-radius: 2px;
@@ -147,30 +134,15 @@ a:hover {
     background-color: #F3F3F3;
     padding: 15px;
 }
-/*
-.headline-about {
-    background: url(../img/aboutimage.jpg) no-repeat fixed;
-    padding: 200px 0 300px 0;
-    margin-bottom: 10px;
+
+.contact_bg {
+    background: url(../img/contactbg.jpg) no-repeat center center; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
     background-size: cover;
 }
 
-
-.headline-events {
-    background: url(../img/events.jpg) no-repeat fixed;
-    padding: 200px 0 300px 0;
-    margin-bottom: 10px;
-    background-size: cover;
+.contact-img {
+    margin-top: 20px;
 }
-
-.headline-contact {
-    background: url(../img/contact.jpg) no-repeat fixed;
-    padding: 200px 0 300px 0;
-    margin-bottom: 10px;
-    background-size: cover;
-}
-
-.home-img {
-    margin-top: -150px;
-}
-*/
